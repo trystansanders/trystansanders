@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @trystansanders
+- I am a Research Fellow in Marine Ecology at the University of Southampton
 - 👀 I’m interested in climate change and marine ecology
 - 🌱 I’m currently working on expression of functional traits in benthic habitats
-- 📫 How to reach me: t.b.sanders@soton.ac.uk
-                      @sanders_trystan
+- :oyster: I have previously worked on...
 
 <!---
 trystansanders/trystansanders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
