@@ -1,4 +1,4 @@
-##G'day
+## G'day
 
 - 👋 Hi, I’m @trystansanders
 - 🏢 I'm a Research Fellow in Marine Ecology at the University of Southampton
